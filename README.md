@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Belajar Dart OOP dari Channel : https://www.youtube.com/c/EricoDarmawanHandoyo
